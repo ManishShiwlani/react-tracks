@@ -15,11 +15,11 @@ mkvirtualenv <project_name>
 workon <project_name>
 
 # Install requirements
-*pip install Django
-*pip install graphene-django
+* pip install Django
+* pip install graphene-django
 
 # Run the commands below in the project directory
-*python manage.py check
-*python manage.py migrate
+* python manage.py check
+* python manage.py migrate
 
 
