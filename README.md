@@ -18,7 +18,7 @@ workon <project_name>
 pip install Django
 pip install graphene-django
 
-#Run the commands below in the project directory
+# Run the commands below in the project directory
 python manage.py check
 python manage.py migrate
 
